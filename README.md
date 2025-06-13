@@ -9,8 +9,6 @@ A minimal Node.js API built with Express. It returns greeting messages via a sin
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
-
-```bash
 git clone https://github.com/your-username/restapi.git
 cd restapi
 
