@@ -9,16 +9,20 @@ A minimal Node.js API built with Express. It returns greeting messages via a sin
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
+
 git clone https://github.com/your-username/restapi.git
 cd restapi
 
 2. **Install dependencies:**
+
 npm install
 
 3. **Start the server:**
+
 npm start
 
 4. **Access the API:**
+
 Open your browser or use a tool like curl or Postman:
 
   http://localhost:8888/hello/ → { "message": "Hello world!" }
